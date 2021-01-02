@@ -1,6 +1,6 @@
 ### A Meeting of The Minds
 
-[!Handshake](/img/handshake.gif)
+![Handshake](/img/handshake.gif)
 
 Place to dump stuff.
 
